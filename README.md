@@ -1,6 +1,6 @@
 # windfarm-bep
 
-hey guys, this is to see weather we can work in the same repository with the team
+Hey guys, this is to see weather we can work in the same repository with the team
 
-hey Max, can you see this?
-
+So you guys started yet? (25-04-17)
+The rest of my day will mostly be a waiting game.. 
